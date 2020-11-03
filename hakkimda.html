@@ -1,20 +1,3 @@
-<!--<?php
-/**
- * Created by PhpStorm.
- * User: ozgur
- * Date: 21.01.2017
- * Time: 00:29
- */
-header('Content-Type: text/html; charset=utf-8');
-$connectFile = "system/connect.php";
-$funtionsFile = "system/functions.php";
-if(file_exists($connectFile)){
-    require $connectFile;
-}
-else{
-    die("<h1>Bağlantı dosyanız yok</h1>");
-}
-?>-->
 <!DOCTYPE html>
 <html>
 <title>ÖZGÜR KAN</title>
@@ -53,7 +36,7 @@ else{
 <nav class="ok-sidenav ok-collapse ok-white ok-animate-left" style="z-index:3;width:300px;" id="mySidenav"><br>
     <div  class="ok-container">
 
-        <img src="images/resim.png" style="float: left;width:44%;" class="ok-round">
+        <img src="images/resim.PNG" style="float: left;width:44%;" class="ok-round">
         <h3 style="margin-top: 10px;padding-left: 0px;float: left;"><b>ÖZGÜR KAN</b></h3>
         <p style="margin-top: -10px;text-align: center;padding-left: 25px;color:#757575;font-size: 20px;float: left;font-family:'Monotype Corsiva'">Kişisel Blog</p>
         <a href="#" onclick="ok_close()" class="ok-hide-large ok-right ok-large ok-padding" title="close menu">
@@ -69,12 +52,12 @@ else{
     </div>
     <div style="clear: both"></div>
 
-    <a href="index.php" onclick="ok_close()" class="ok-padding "><i class="fa fa-home fa-fw ok-margin-right"></i>ANASAYFA</a>
-    <a href="hakkimda.php" onclick="ok_close()" class="ok-padding ok-text-teal"><i class="fa fa-id-card fa-fw ok-margin-right"></i>HAKKIMDA</a>
-    <a href="favoriler.php" onclick="ok_close()" class="ok-padding"><i class="fa fa-star fa-fw ok-margin-right"></i>FAVORİLER</a>
+    <a href="index.html" onclick="ok_close()" class="ok-padding ok-text-teal"><i class="fa fa-home fa-fw ok-margin-right"></i>ANASAYFA</a>
+    <a href="hakkimda.html" onclick="ok_close()" class="ok-padding"><i class="fa fa-id-card fa-fw ok-margin-right"></i>HAKKIMDA</a>
+    <a href="favoriler.html" onclick="ok_close()" class="ok-padding"><i class="fa fa-star fa-fw ok-margin-right"></i>FAVORİLER</a>
 
 
-    <div id="sol_alt" style="margin-top: 20px;width:270px;height: 410px;margin-left: 8px;">
+    <!--<div id="sol_alt" style="margin-top: 20px;width:270px;height: 410px;margin-left: 8px;">
         <h1>DERSLER</h1>
         <ul>
             <?php
@@ -91,7 +74,8 @@ else{
                 <?php }}?>
 
         </ul>
-    </div>
+    
+    </div>-->
 
 </nav>
 
