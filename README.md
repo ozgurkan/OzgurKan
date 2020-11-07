@@ -14,6 +14,8 @@ Kişisel bloguma gitmek için tıklayınız: https://ozgurkan.github.io/OzgurKan
 <a href="mailto:galatasaray_ozgur_94@hotmail.com" target="_blank" class="ok-hover-white ok-hover-text-red ok-show-inline-block"><i class="fa fa-envelope fa-2x"></i></a>        
 <a href="https://www.linkedin.com/in/ozgurkan/" target="_blank" class="ok-hover-white ok-hover-text-indigo ok-show-inline-block"><i class="fa fa-linkedin fa-2x"></i></a>
  <i class="fa fa-youtube fa-2x"></i>
+ 
+ <i class="fab fa-facebook"></i>
 
 <img class="fa fa-youtube fa-2x" src="fa-crown.svg" width="50" height="50">
 ![](https://komarev.com/ghpvc/?username=iamhimanshu0&color=brightgreen&style=flat)
