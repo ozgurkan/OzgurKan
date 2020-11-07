@@ -9,7 +9,7 @@ Kişisel bloguma gitmek için tıklayınız: https://ozgurkan.github.io/OzgurKan
  Ben Özgür Kan  Machine Learning || Data Science || Deep Learning || Full Stack Web Developer || ve her zaman yeni teknolojiler ve alanlarda öğrenmeye ve çalışmaya istekliyim.
  
  
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <title>ÖZGÜR KAN</title>
 <link rel="icon" href="images/favicon.ico" type="image/gif" sizes="16x16"><!--Site favicon -->
