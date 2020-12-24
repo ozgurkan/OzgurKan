@@ -47,7 +47,7 @@ Kişisel bloguma gitmek için tıklayınız: https://ozgurkan.github.io/OzgurKan
 
 <!-- YOUTUBE:START -->
 - [YAZILIM MÜHENDİSLİĞİ PROJE 2020 (Dil Kursu Otomasyonu C# ve PostgreSQL)](https://www.youtube.com/watch?v=Dm4mHN0dL5Q)
-- [https://www.youtube.com/watch?v=YTOupU2mcNo](https://www.youtube.com/watch?v=YTOupU2mcNo)
+- [ToxicRun (Unity ve C#)](https://www.youtube.com/watch?v=YTOupU2mcNo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC_FAqi-Cqkzgy3beNC0mDiw)
