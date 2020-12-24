@@ -7,7 +7,7 @@ Kişisel bloguma gitmek için tıklayınız: https://ozgurkan.github.io/OzgurKan
  Ben Özgür Kan  ||Machine Learning || Data Science || Deep Learning ||Object Detection|| ve her zaman yeni teknolojiler ve alanlarda öğrenmeye ve çalışmaya istekliyim.
 
 
-
+---
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -16,7 +16,7 @@ Kişisel bloguma gitmek için tıklayınız: https://ozgurkan.github.io/OzgurKan
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-
+---
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -27,7 +27,7 @@ Kişisel bloguma gitmek için tıklayınız: https://ozgurkan.github.io/OzgurKan
 ➡️ [more videos...](https://www.youtube.com/channel/UC_FAqi-Cqkzgy3beNC0mDiw)
 
 
-
+---
 [website]: https://ozgurkan.github.io/OzgurKan/
 [youtube]: https://www.youtube.com/channel/UC_FAqi-Cqkzgy3beNC0mDiw
 [instagram]:https://www.instagram.com/kan_ozgur/
