@@ -15,7 +15,7 @@ Kişisel bloguma gitmek için tıklayınız: https://ozgurkan.github.io/OzgurKan
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
----
+
 
 ### 📺 Latest YouTube Videos
 
@@ -26,7 +26,7 @@ Kişisel bloguma gitmek için tıklayınız: https://ozgurkan.github.io/OzgurKan
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC_FAqi-Cqkzgy3beNC0mDiw)
 
----
+
 
 [website]: https://ozgurkan.github.io/OzgurKan/
 [youtube]: https://www.youtube.com/channel/UC_FAqi-Cqkzgy3beNC0mDiw
