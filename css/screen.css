@@ -318,7 +318,8 @@ dl.timelineMinor {
 	.timelineMinor dt {
 		background:url(../images/timeline_decade_tick.gif) left center no-repeat;
 		clear:left;
-		font-size:1.6em;
+		/*font-size:1.6em;*/
+		font-size:1.3vw;
 		list-style-type:none;
 		line-height:1.2em;
 		margin:0 0 12px;
