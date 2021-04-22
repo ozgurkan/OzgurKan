@@ -1,0 +1,6 @@
+#img 
+*.img
+*.png
+*.jpg
+*.gif
+/images
